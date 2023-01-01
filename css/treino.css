@@ -1,0 +1,21 @@
+/*******topo*******/
+#topo {
+  background: radial-gradient(
+    circle farthest-corner at center center,
+    #0c56cc 70%,
+    rgba(0, 83, 248, 0.67) 100%
+  );
+}
+
+
+
+
+/******configurações gerais******/
+
+#treino{
+  color: white;
+  background-color: #343a40;
+}
+
+
+
